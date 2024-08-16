@@ -2,7 +2,7 @@
 
 Imagine we drive on highway and we do not have the phone number of nearby drivers, how should we demonstrate our intent (urgently driving to a ceremony or casually driving for vacation) to some drivers who are attempting to merge onto your lane? 
 
-Our algorithm leverages iLQGames and iLQR to plan in the joint physical and belief space such that you can strategically demonstrate your intent to other drivers. 
+Our algorithm leverages iLQGames.jl and iLQR to plan in the joint physical and belief space such that you can strategically demonstrate your intent to other drivers. 
 
 If you want to learn more, please check out our paper: [Intent Demonstration in General-Sum Dynamic Games via Iterative Linear-Quadratic Approximations](https://arxiv.org/pdf/2402.10182).
 
