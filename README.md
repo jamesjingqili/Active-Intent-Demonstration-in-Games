@@ -1,6 +1,6 @@
 # Active Intent Demonstration in Games
 
-Imagine we drive on highway and we do not have the phone number of nearby drivers, how should we demonstrate our intent (urgently driving to a ceremony or casually driving for vacation) to some drivers who are attempting to merge onto our lane? 
+Imagine that we drive on highway and we do not have the phone number of nearby drivers, how should we demonstrate our intent (urgently driving to a ceremony or casually driving for vacation) to some drivers who are attempting to merge onto our lane? 
 
 Our algorithm leverages [iLQGames.jl](https://github.com/lassepe/iLQGames.jl) and iLQR to plan in the joint physical and belief space such that you can strategically demonstrate your intent to other drivers. 
 
